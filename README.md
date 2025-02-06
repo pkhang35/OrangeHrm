@@ -1,5 +1,5 @@
-# Real World Testing with Cypress - Course App
+OrangeHRM Testing Project with Cypress
 
-This application is for the [Testing your first application course](https://learn.cypress.io/testing-your-first-application) on [learn.cypress.io](https://learn.cypress.io/).
+Project Overview
 
-The `start` branch is the main branch for this repo and is the starting point for the course. The [final](https://github.com/cypress-io/cypress-realworld-testing-course-app/tree/final) branch contains the completed tests.
+This project focuses on testing the OrangeHRM (Human Resource Management) application using Cypress, a powerful end-to-end testing framework. The objective is to ensure the application’s security, safety, and functionality through automated test cases.
